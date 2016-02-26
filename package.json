@@ -1,0 +1,21 @@
+{
+  "name": "storingInDynamo",
+  "version": "1.0.0",
+  "description": "Saving stuff in a Dynamo table via Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "lambda",
+    "dynamo",
+    "demo",
+    "claudia"
+  ],
+  "author": "Marcus Hammarberg @marcusoftnet",
+  "license": "MIT"
+}
